@@ -1,5 +1,8 @@
 # Blinkit Analysis 📊
 
+## 🖼 Dashboard Preview
+![Blinkit Dashboard](Screenshot.png)
+
 ## 📌 Project Overview
 This project conducts a comprehensive analysis of **Blinkit's** sales performance, customer satisfaction, and inventory distribution. The goal is to extract key insights using **Excel-based KPIs and visualizations**, helping identify opportunities for business optimization.
 
